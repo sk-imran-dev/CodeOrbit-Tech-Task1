@@ -1,0 +1,501 @@
+Order_ID,Customer_Name,City,Category,Product,Order_Date,Quantity,Sales_Amount,Payment_Method,Order_Status
+Ord0001,Rahul,Visakhapatnam,Stationery,Cooking Oil,2025-11-28,2,22126.17,Net Banking,Shipped
+Ord0002,Kavya,Warangal,Stationery,Rice Bag,2025-10-28,8,6150.37,Net Banking,Completed
+Ord0003,Rahul,Bangalore,Electronics,Rice Bag,2025-01-06,8,17048.85,Upi,Shipped
+Ord0004,Sneha,Visakhapatnam,Clothing,Jeans,2025-09-20,2,18133.18,Cash,Cancelled
+Ord0005,Sneha,Nellore,Furniture,Notebook,2025-06-08,1,21225.3,Credit Card,Cancelled
+Ord0006,Vikram,Tirupati,Electronics,Jeans,2025-10-27,9,12561.69,Cash,Shipped
+Ord0007,Neha,Warangal,Groceries,Jeans,2025-09-26,5,21143.05,Net Banking,Shipped
+Ord0008,Neha,Kakinada,Electronics,Notebook,2025-04-25,3,20489.68,Net Banking,Completed
+Ord0009,Sandeep,Warangal,Groceries,Rice Bag,2025-03-14,8,22130.79,Cash,Shipped
+Ord0010,Pooja,Nellore,Stationery,Table,2025-10-14,7,16809.9,Credit Card,Shipped
+Ord0011,Ananya,Tirupati,Groceries,Office Chair,2025-05-31,5,430.07,Upi,Shipped
+Ord0012,Kavya,Kakinada,Groceries,T-Shirt,2025-04-13,5,17377.67,Debit Card,Shipped
+Ord0013,Kavya,Tirupati,Stationery,Laptop,2025-05-29,6,11549.86,Cash,Shipped
+Ord0014,Sandeep,Kakinada,Clothing,Rice Bag,2025-04-04,7,21092.51,Debit Card,Completed
+Ord0015,Pooja,Bangalore,Groceries,T-Shirt,2025-02-19,4,18739.27,Debit Card,Pending
+Ord0016,Vikram,Guntur,Electronics,Laptop,2025-08-20,10,13755.45,Cash,Pending
+Ord0017,Kiran,Vijayawada,Stationery,Laptop,2025-10-07,5,16778.23,Credit Card,Pending
+Ord0018,Ananya,Visakhapatnam,Stationery,Notebook,2025-09-09,3,13735.93,Debit Card,Pending
+Ord0019,Rohit,Kakinada,Clothing,Smartphone,2025-08-02,3,23389.39,Net Banking,Cancelled
+Ord0020,Neha,Tirupati,Groceries,Headphones,2025-09-24,4,9524.95,Cash,Shipped
+Ord0021,Swathi,Vijayawada,Electronics,T-Shirt,2025-11-27,6,23376.68,Cash,Completed
+Ord0022,Neha,Nellore,Clothing,Table,2025-08-19,6,22866.13,Debit Card,Shipped
+Ord0023,Rohit,Warangal,Furniture,Headphones,2025-10-30,9,5333.24,Net Banking,Cancelled
+Ord0024,Vikram,Warangal,Furniture,Smartphone,2025-10-08,7,1046.99,Upi,Completed
+Ord0025,Pooja,Kakinada,Electronics,Rice Bag,2025-11-25,4,12199.25,Cash,Pending
+Ord0026,Pooja,Kakinada,Furniture,Cooking Oil,2025-03-12,3,12902.61,Upi,Shipped
+Ord0027,Sneha,Tirupati,Stationery,Jeans,2025-02-10,7,7761.75,Credit Card,Pending
+Ord0028,Sneha,Nellore,Groceries,Jeans,2025-05-28,8,4588.66,Net Banking,Shipped
+Ord0029,Vikram,Vijayawada,Stationery,Cooking Oil,2025-05-21,2,21227.17,Upi,Completed
+Ord0030,Rahul,Nellore,Clothing,Jeans,2025-10-07,3,24037.73,Credit Card,Pending
+Ord0031,Arjun,Kakinada,Stationery,Cooking Oil,2025-04-21,2,15595.45,Credit Card,Pending
+Ord0032,Rohit,Bangalore,Stationery,Table,2025-12-10,9,3488.93,Credit Card,Completed
+Ord0033,Divya,Hyderabad,Electronics,Laptop,2025-07-02,3,16219.42,Cash,Cancelled
+Ord0034,Sneha,Warangal,Electronics,Table,2025-06-11,3,6669.29,Cash,Completed
+Ord0035,Divya,Bangalore,Groceries,Laptop,2025-01-30,2,6033.59,Credit Card,Completed
+Ord0036,Rahul,Kakinada,Stationery,T-Shirt,2025-06-11,8,15259.93,Net Banking,Completed
+Ord0037,Swathi,Tirupati,Clothing,Notebook,2025-04-21,10,11674.21,Cash,Cancelled
+Ord0038,Manoj,Kakinada,Clothing,Jeans,2025-05-30,6,1629.24,Debit Card,Completed
+Ord0039,Sneha,Visakhapatnam,Clothing,Smartphone,2025-06-02,7,8108.29,Cash,Cancelled
+Ord0040,Kiran,Kakinada,Electronics,Smartphone,2025-03-25,10,3242.59,Cash,Pending
+Ord0041,Neha,Visakhapatnam,Stationery,Table,2025-01-15,7,14537.55,Credit Card,Shipped
+Ord0042,Divya,Tirupati,Furniture,Jeans,2025-12-06,4,19417.71,Upi,Completed
+Ord0043,Pooja,Kakinada,Stationery,Jeans,2025-05-11,3,5860.74,Cash,Cancelled
+Ord0044,Neha,Nellore,Groceries,Table,2025-06-11,3,23616.85,Net Banking,Completed
+Ord0045,Manoj,Hyderabad,Stationery,Laptop,2025-11-29,9,20532.61,Credit Card,Cancelled
+Ord0046,Ananya,Guntur,Furniture,Rice Bag,2025-01-30,4,17042.75,Upi,Shipped
+Ord0047,Sandeep,Visakhapatnam,Furniture,Cooking Oil,2025-05-22,6,21558.08,Credit Card,Cancelled
+Ord0048,Vikram,Nellore,Stationery,Rice Bag,2025-12-11,10,7942.4,Upi,Shipped
+Ord0049,Priya,Nellore,Electronics,T-Shirt,2025-09-25,7,19925.09,Upi,Completed
+Ord0050,Sneha,Visakhapatnam,Stationery,Table,2025-03-12,2,24970.52,Cash,Pending
+Ord0051,Manoj,Vijayawada,Clothing,Notebook,2025-01-23,7,9638.43,Net Banking,Pending
+Ord0052,Neha,Vijayawada,Electronics,Headphones,2025-07-19,6,13777.76,Credit Card,Completed
+Ord0053,Sandeep,Warangal,Furniture,Headphones,2025-05-30,5,13620.9,Credit Card,Pending
+Ord0054,Divya,Chennai,Electronics,Notebook,2025-11-28,8,23492.59,Credit Card,Pending
+Ord0055,Sandeep,Kakinada,Electronics,Headphones,2025-06-11,9,3789.69,Cash,Completed
+Ord0056,Neha,Guntur,Clothing,Smartphone,2025-07-08,5,5561.55,Upi,Pending
+Ord0057,Priya,Vijayawada,Clothing,Rice Bag,2025-02-24,2,9653.72,Net Banking,Cancelled
+Ord0058,Pooja,Vijayawada,Clothing,Rice Bag,2025-09-13,2,13978.71,Upi,Cancelled
+Ord0059,Pooja,Nellore,Stationery,T-Shirt,2025-02-12,2,19520.34,Cash,Shipped
+Ord0060,Kavya,Bangalore,Clothing,Office Chair,2025-03-28,6,10928.4,Net Banking,Cancelled
+Ord0061,Arjun,Nellore,Groceries,T-Shirt,2025-04-01,4,20198.17,Upi,Cancelled
+Ord0062,Kavya,Visakhapatnam,Groceries,Notebook,2025-07-15,4,4028.59,Net Banking,Pending
+Ord0063,Divya,Bangalore,Clothing,Smartphone,2025-06-13,5,21061.27,Debit Card,Cancelled
+Ord0064,Priya,Kakinada,Clothing,Office Chair,2025-06-19,3,14120.24,Cash,Cancelled
+Ord0065,Sneha,Warangal,Groceries,Jeans,2025-07-24,1,13833.41,Credit Card,Shipped
+Ord0066,Arjun,Vijayawada,Groceries,Cooking Oil,2025-09-22,4,10726.02,Credit Card,Completed
+Ord0067,Swathi,Tirupati,Furniture,Laptop,2025-05-17,9,17601.96,Upi,Cancelled
+Ord0068,Rohit,Warangal,Groceries,Rice Bag,2025-09-05,6,491.5,Upi,Completed
+Ord0069,Pooja,Bangalore,Clothing,Laptop,2025-04-18,8,12970.55,Net Banking,Cancelled
+Ord0070,Rahul,Kakinada,Furniture,Cooking Oil,2025-01-06,2,4064.51,Upi,Shipped
+Ord0071,Kiran,Warangal,Furniture,Table,2025-02-13,10,10542.57,Net Banking,Pending
+Ord0072,Rahul,Guntur,Clothing,Jeans,2025-01-23,3,13845.76,Net Banking,Pending
+Ord0073,Swathi,Nellore,Clothing,T-Shirt,2025-06-27,6,15243.84,Credit Card,Shipped
+Ord0074,Swathi,Visakhapatnam,Clothing,Laptop,2025-11-26,8,3504.21,Debit Card,Cancelled
+Ord0075,Sneha,Nellore,Furniture,T-Shirt,2025-05-21,9,21087.73,Debit Card,Cancelled
+Ord0076,Kiran,Warangal,Electronics,Jeans,2025-02-03,9,17115.0,Credit Card,Shipped
+Ord0077,Rohit,Vijayawada,Stationery,Cooking Oil,2025-11-02,6,12333.02,Credit Card,Cancelled
+Ord0078,Priya,Vijayawada,Stationery,Headphones,2025-05-12,9,13109.45,Debit Card,Completed
+Ord0079,Swathi,Warangal,Furniture,Laptop,2025-08-26,4,5399.82,Net Banking,Pending
+Ord0080,Neha,Chennai,Clothing,Rice Bag,2025-03-11,9,17026.58,Credit Card,Cancelled
+Ord0081,Pooja,Tirupati,Stationery,Notebook,2025-10-04,4,3969.42,Net Banking,Pending
+Ord0082,Sandeep,Hyderabad,Furniture,Notebook,2025-02-01,1,7153.11,Credit Card,Pending
+Ord0083,Priya,Bangalore,Stationery,T-Shirt,2025-03-07,8,4373.7,Cash,Pending
+Ord0084,Pooja,Hyderabad,Groceries,Notebook,2025-09-08,9,23944.59,Credit Card,Pending
+Ord0085,Neha,Visakhapatnam,Stationery,Smartphone,2025-08-27,7,4044.44,Credit Card,Pending
+Ord0086,Sandeep,Kakinada,Electronics,Rice Bag,2025-01-04,1,2547.47,Net Banking,Cancelled
+Ord0087,Arjun,Guntur,Furniture,Cooking Oil,2025-04-08,2,10686.44,Debit Card,Pending
+Ord0088,Manoj,Hyderabad,Furniture,Office Chair,2025-12-05,8,5475.3,Upi,Shipped
+Ord0089,Sandeep,Tirupati,Groceries,T-Shirt,2025-12-27,4,24217.08,Debit Card,Shipped
+Ord0090,Rahul,Chennai,Furniture,Smartphone,2025-02-10,6,17927.2,Net Banking,Pending
+Ord0091,Rahul,Hyderabad,Furniture,Laptop,2025-04-07,7,956.45,Upi,Cancelled
+Ord0092,Sneha,Visakhapatnam,Groceries,Laptop,2025-09-02,9,11613.06,Credit Card,Cancelled
+Ord0093,Vikram,Hyderabad,Electronics,Headphones,2025-10-14,4,24247.85,Debit Card,Shipped
+Ord0094,Rohit,Warangal,Electronics,Cooking Oil,2025-06-17,5,24189.96,Cash,Shipped
+Ord0095,Vikram,Visakhapatnam,Stationery,Cooking Oil,2025-09-29,2,20376.89,Credit Card,Completed
+Ord0096,Rahul,Warangal,Electronics,Smartphone,2025-09-28,8,14196.57,Debit Card,Shipped
+Ord0097,Rohit,Nellore,Stationery,Laptop,2025-03-20,6,3531.15,Cash,Shipped
+Ord0098,Rahul,Hyderabad,Stationery,Table,2025-01-10,1,18773.48,Cash,Completed
+Ord0099,Sandeep,Visakhapatnam,Furniture,Table,2025-08-30,4,8191.9,Debit Card,Pending
+Ord0100,Divya,Chennai,Stationery,T-Shirt,2025-08-03,1,12326.06,Net Banking,Pending
+Ord0101,Vikram,Chennai,Electronics,Notebook,2025-09-01,10,12902.61,Net Banking,Completed
+Ord0102,Vikram,Chennai,Groceries,Laptop,2025-09-29,8,19658.13,Credit Card,Pending
+Ord0103,Manoj,Kakinada,Clothing,Table,2025-08-10,10,852.18,Net Banking,Pending
+Ord0104,Neha,Vijayawada,Stationery,T-Shirt,2025-04-22,10,2084.32,Upi,Shipped
+Ord0105,Divya,Vijayawada,Electronics,Jeans,2025-07-25,1,6259.03,Cash,Cancelled
+Ord0106,Kavya,Hyderabad,Stationery,Table,2025-07-11,2,6532.68,Cash,Pending
+Ord0107,Sandeep,Kakinada,Electronics,Rice Bag,2025-10-09,1,9020.59,Debit Card,Completed
+Ord0108,Swathi,Chennai,Groceries,Laptop,2025-05-30,2,4374.88,Cash,Cancelled
+Ord0109,Kiran,Guntur,Clothing,Notebook,2025-11-27,1,11890.29,Credit Card,Completed
+Ord0110,Swathi,Kakinada,Furniture,Cooking Oil,2025-11-22,9,14676.0,Upi,Shipped
+Ord0111,Manoj,Guntur,Stationery,T-Shirt,2025-04-27,9,9945.91,Cash,Pending
+Ord0112,Ananya,Guntur,Groceries,Jeans,2025-10-12,2,11140.1,Net Banking,Pending
+Ord0113,Priya,Chennai,Furniture,Cooking Oil,2025-04-13,9,18956.8,Debit Card,Cancelled
+Ord0114,Pooja,Hyderabad,Groceries,Smartphone,2025-01-10,6,2043.02,Upi,Pending
+Ord0115,Manoj,Nellore,Furniture,T-Shirt,2025-03-31,8,13842.89,Upi,Completed
+Ord0116,Manoj,Tirupati,Electronics,Rice Bag,2025-11-19,7,16836.7,Credit Card,Cancelled
+Ord0117,Rahul,Warangal,Electronics,Table,2025-05-02,2,9555.56,Upi,Cancelled
+Ord0118,Rohit,Warangal,Stationery,Headphones,2025-06-07,9,460.04,Cash,Cancelled
+Ord0119,Swathi,Hyderabad,Groceries,Notebook,2025-02-19,4,16679.26,Upi,Shipped
+Ord0120,Rahul,Vijayawada,Furniture,Laptop,2025-11-10,9,7914.9,Debit Card,Cancelled
+Ord0121,Ananya,Guntur,Stationery,Table,2025-03-19,7,15911.39,Cash,Shipped
+Ord0122,Rohit,Vijayawada,Electronics,Office Chair,2025-06-16,8,20280.79,Debit Card,Cancelled
+Ord0123,Vikram,Nellore,Clothing,Table,2025-08-17,10,10378.95,Credit Card,Cancelled
+Ord0124,Manoj,Hyderabad,Electronics,Notebook,2025-10-08,1,5273.51,Credit Card,Shipped
+Ord0125,Kiran,Visakhapatnam,Furniture,Smartphone,2025-04-28,7,3385.54,Credit Card,Shipped
+Ord0126,Kiran,Warangal,Stationery,Table,2025-10-05,9,24275.34,Credit Card,Cancelled
+Ord0127,Manoj,Nellore,Furniture,Headphones,2025-09-18,5,1128.71,Net Banking,Pending
+Ord0128,Sneha,Hyderabad,Groceries,Notebook,2025-03-06,8,24671.04,Debit Card,Completed
+Ord0129,Rohit,Bangalore,Electronics,Notebook,2025-09-21,6,14131.92,Debit Card,Pending
+Ord0130,Sandeep,Kakinada,Stationery,Table,2025-12-07,10,12749.44,Credit Card,Shipped
+Ord0131,Neha,Chennai,Electronics,Jeans,2025-09-27,7,9807.78,Upi,Pending
+Ord0132,Neha,Warangal,Groceries,T-Shirt,2025-01-15,2,6055.9,Upi,Shipped
+Ord0133,Rohit,Tirupati,Groceries,Headphones,2025-08-11,9,4899.86,Cash,Completed
+Ord0134,Rahul,Vijayawada,Furniture,Jeans,2025-03-05,8,15116.92,Net Banking,Completed
+Ord0135,Divya,Chennai,Clothing,Table,2025-01-02,2,22284.7,Credit Card,Pending
+Ord0136,Vikram,Tirupati,Electronics,Smartphone,2025-04-08,9,21524.59,Credit Card,Pending
+Ord0137,Rahul,Vijayawada,Clothing,Office Chair,2025-03-18,8,11763.27,Cash,Shipped
+Ord0138,Kavya,Hyderabad,Electronics,Laptop,2025-12-18,8,10691.48,Cash,Shipped
+Ord0139,Vikram,Guntur,Groceries,Rice Bag,2025-06-29,2,24943.02,Debit Card,Pending
+Ord0140,Divya,Vijayawada,Clothing,Cooking Oil,2025-09-26,4,10730.35,Credit Card,Pending
+Ord0141,Ananya,Hyderabad,Stationery,Notebook,2025-06-07,5,19445.34,Debit Card,Completed
+Ord0142,Sandeep,Chennai,Clothing,Smartphone,2025-07-30,2,14531.1,Net Banking,Cancelled
+Ord0143,Arjun,Tirupati,Stationery,Notebook,2025-06-09,4,18592.65,Net Banking,Pending
+Ord0144,Neha,Tirupati,Clothing,Laptop,2025-10-12,10,6443.25,Debit Card,Cancelled
+Ord0145,Divya,Bangalore,Furniture,Notebook,2025-08-15,3,9073.99,Net Banking,Cancelled
+Ord0146,Sneha,Bangalore,Electronics,Notebook,2025-05-07,1,22956.29,Net Banking,Cancelled
+Ord0147,Sandeep,Visakhapatnam,Electronics,T-Shirt,2025-07-27,7,15384.27,Net Banking,Shipped
+Ord0148,Pooja,Vijayawada,Clothing,Jeans,2025-12-15,8,14691.9,Net Banking,Shipped
+Ord0149,Arjun,Guntur,Clothing,Jeans,2025-06-29,5,19601.86,Cash,Cancelled
+Ord0150,Divya,Nellore,Electronics,Notebook,2025-01-12,5,13601.31,Net Banking,Completed
+Ord0151,Rahul,Visakhapatnam,Groceries,Table,2025-07-16,5,22879.26,Credit Card,Completed
+Ord0152,Kiran,Chennai,Electronics,Smartphone,2025-04-28,3,1433.23,Credit Card,Shipped
+Ord0153,Rahul,Warangal,Stationery,Cooking Oil,2025-11-21,10,1548.14,Upi,Completed
+Ord0154,Manoj,Tirupati,Furniture,Smartphone,2025-12-22,2,22714.26,Cash,Shipped
+Ord0155,Ananya,Hyderabad,Groceries,Cooking Oil,2025-01-13,5,10342.05,Credit Card,Shipped
+Ord0156,Kiran,Guntur,Groceries,Table,2025-03-18,5,16061.45,Net Banking,Pending
+Ord0157,Rohit,Tirupati,Electronics,Smartphone,2025-08-21,10,10432.15,Debit Card,Shipped
+Ord0158,Pooja,Hyderabad,Electronics,Table,2025-02-18,3,10857.84,Credit Card,Shipped
+Ord0159,Neha,Warangal,Furniture,Office Chair,2025-06-14,3,19121.52,Credit Card,Completed
+Ord0160,Swathi,Vijayawada,Furniture,Rice Bag,2025-07-17,2,9113.35,Cash,Completed
+Ord0161,Arjun,Warangal,Electronics,Table,2025-10-10,4,5021.71,Credit Card,Completed
+Ord0162,Sneha,Kakinada,Stationery,Smartphone,2025-10-06,2,17304.58,Debit Card,Cancelled
+Ord0163,Kavya,Hyderabad,Furniture,Headphones,2025-04-10,9,6450.57,Cash,Shipped
+Ord0164,Sneha,Warangal,Groceries,T-Shirt,2025-04-08,4,19049.54,Credit Card,Shipped
+Ord0165,Rahul,Warangal,Furniture,Notebook,2025-05-27,9,1420.56,Net Banking,Cancelled
+Ord0166,Manoj,Chennai,Clothing,Rice Bag,2025-11-22,1,22945.41,Upi,Cancelled
+Ord0167,Vikram,Tirupati,Electronics,Office Chair,2025-06-07,2,6609.05,Debit Card,Completed
+Ord0168,Vikram,Visakhapatnam,Clothing,Table,2025-03-09,1,23163.97,Credit Card,Shipped
+Ord0169,Rahul,Chennai,Furniture,Cooking Oil,2025-01-06,1,24614.93,Upi,Completed
+Ord0170,Pooja,Visakhapatnam,Electronics,Table,2025-09-13,9,20988.93,Credit Card,Pending
+Ord0171,Ananya,Visakhapatnam,Stationery,Rice Bag,2025-12-17,8,17311.03,Cash,Cancelled
+Ord0172,Manoj,Visakhapatnam,Furniture,Cooking Oil,2025-05-11,9,15922.8,Credit Card,Shipped
+Ord0173,Neha,Vijayawada,Electronics,Jeans,2025-08-27,1,16144.4,Cash,Shipped
+Ord0174,Priya,Nellore,Groceries,Smartphone,2025-11-27,6,23944.53,Credit Card,Completed
+Ord0175,Kiran,Tirupati,Furniture,Office Chair,2025-05-23,4,11611.98,Cash,Completed
+Ord0176,Ananya,Kakinada,Groceries,T-Shirt,2025-03-30,7,12902.61,Upi,Pending
+Ord0177,Sandeep,Warangal,Clothing,Headphones,2025-06-07,7,7296.5,Debit Card,Shipped
+Ord0178,Kiran,Vijayawada,Groceries,Jeans,2025-07-08,4,15276.66,Net Banking,Shipped
+Ord0179,Sneha,Visakhapatnam,Furniture,T-Shirt,2025-10-09,2,21423.56,Credit Card,Pending
+Ord0180,Rahul,Nellore,Furniture,Office Chair,2025-04-26,5,15631.78,Debit Card,Shipped
+Ord0181,Ananya,Bangalore,Clothing,Smartphone,2025-11-19,1,7041.86,Debit Card,Cancelled
+Ord0182,Sandeep,Vijayawada,Groceries,Cooking Oil,2025-09-19,7,18669.58,Debit Card,Completed
+Ord0183,Rahul,Bangalore,Electronics,Laptop,2025-09-25,3,6329.18,Credit Card,Cancelled
+Ord0184,Kiran,Bangalore,Stationery,Table,2025-01-07,5,22777.41,Net Banking,Cancelled
+Ord0185,Kavya,Nellore,Clothing,Rice Bag,2025-09-23,2,19216.23,Upi,Cancelled
+Ord0186,Kavya,Bangalore,Groceries,Laptop,2025-04-02,7,24086.96,Net Banking,Cancelled
+Ord0187,Divya,Kakinada,Electronics,Cooking Oil,2025-01-01,2,1557.11,Cash,Completed
+Ord0188,Pooja,Visakhapatnam,Furniture,Laptop,2025-01-11,8,1473.65,Cash,Completed
+Ord0189,Vikram,Guntur,Furniture,Notebook,2025-03-21,8,5180.32,Upi,Completed
+Ord0190,Arjun,Nellore,Electronics,Office Chair,2025-01-19,5,13226.36,Net Banking,Shipped
+Ord0191,Vikram,Kakinada,Electronics,Jeans,2025-12-30,7,21368.07,Cash,Cancelled
+Ord0192,Divya,Chennai,Clothing,Smartphone,2025-02-11,1,4806.96,Upi,Pending
+Ord0193,Ananya,Guntur,Clothing,Laptop,2025-11-19,4,285.45,Cash,Cancelled
+Ord0194,Priya,Tirupati,Furniture,Rice Bag,2025-02-14,7,12415.11,Credit Card,Cancelled
+Ord0195,Priya,Warangal,Furniture,Laptop,2025-02-11,3,10583.15,Cash,Completed
+Ord0196,Kavya,Hyderabad,Stationery,Rice Bag,2025-08-31,1,21664.58,Debit Card,Pending
+Ord0197,Rohit,Warangal,Furniture,Office Chair,2025-11-01,9,1875.04,Upi,Pending
+Ord0198,Vikram,Guntur,Furniture,Rice Bag,2025-12-17,2,12902.61,Cash,Cancelled
+Ord0199,Neha,Vijayawada,Furniture,Notebook,2025-11-01,10,2833.75,Credit Card,Shipped
+Ord0200,Swathi,Guntur,Groceries,Rice Bag,2025-06-24,6,6642.66,Credit Card,Completed
+Ord0201,Unknown,Tirupati,Furniture,T-Shirt,2025-02-19,7,12558.88,Net Banking,Pending
+Ord0202,Swathi,Visakhapatnam,Stationery,Rice Bag,2025-04-11,5,13810.8,Cash,Pending
+Ord0203,Sneha,Vijayawada,Groceries,Headphones,2025-07-12,5,5759.8,Debit Card,Shipped
+Ord0204,Kavya,Hyderabad,Stationery,Headphones,2025-10-21,1,24832.14,Net Banking,Pending
+Ord0205,Ananya,Kakinada,Furniture,Table,2025-03-21,3,869.87,Credit Card,Pending
+Ord0206,Divya,Hyderabad,Stationery,Office Chair,2025-08-28,1,19648.53,Net Banking,Cancelled
+Ord0207,Ananya,Tirupati,Electronics,Smartphone,2025-10-05,9,14781.28,Net Banking,Shipped
+Ord0208,Ananya,Bangalore,Electronics,T-Shirt,2025-03-03,8,22768.59,Cash,Completed
+Ord0209,Kiran,Chennai,Furniture,T-Shirt,2025-04-02,7,14869.33,Debit Card,Pending
+Ord0210,Pooja,Nellore,Stationery,Headphones,2025-08-28,7,17436.1,Net Banking,Pending
+Ord0211,Rahul,Warangal,Groceries,Smartphone,2025-03-31,2,4921.64,Credit Card,Shipped
+Ord0212,Ananya,Nellore,Electronics,Laptop,2025-03-27,3,5489.13,Debit Card,Shipped
+Ord0213,Rohit,Visakhapatnam,Furniture,Table,2025-04-24,3,12369.81,Debit Card,Cancelled
+Ord0214,Manoj,Visakhapatnam,Electronics,Smartphone,2025-04-14,6,3155.63,Cash,Shipped
+Ord0215,Kiran,Nellore,Electronics,Rice Bag,2025-02-07,2,4392.43,Credit Card,Pending
+Ord0216,Kiran,Visakhapatnam,Electronics,Jeans,2025-06-23,9,9305.62,Net Banking,Shipped
+Ord0217,Neha,Guntur,Electronics,T-Shirt,2025-05-10,4,2886.19,Cash,Completed
+Ord0218,Kiran,Guntur,Furniture,Headphones,2025-06-29,1,4080.98,Credit Card,Pending
+Ord0219,Ananya,Visakhapatnam,Electronics,Smartphone,2025-05-20,9,22439.49,Net Banking,Cancelled
+Ord0220,Manoj,Vijayawada,Stationery,Office Chair,2025-05-28,2,14271.52,Net Banking,Pending
+Ord0221,Kavya,Unknown,Stationery,Jeans,2025-11-22,2,20688.25,Credit Card,Pending
+Ord0222,Sandeep,Vijayawada,Furniture,Headphones,2025-03-31,4,17606.05,Net Banking,Shipped
+Ord0223,Kiran,Nellore,Stationery,Rice Bag,2025-09-06,7,1343.14,Cash,Cancelled
+Ord0224,Sneha,Hyderabad,Clothing,Jeans,2025-09-24,6,7314.52,Upi,Cancelled
+Ord0225,Priya,Nellore,Groceries,Table,2025-02-06,3,15431.03,Debit Card,Cancelled
+Ord0226,Sneha,Nellore,Groceries,Jeans,2025-01-21,5,20786.37,Debit Card,Completed
+Ord0227,Kiran,Warangal,Furniture,Jeans,2025-01-27,6,8645.19,Credit Card,Shipped
+Ord0228,Arjun,Nellore,Electronics,Notebook,2025-07-31,1,8576.59,Credit Card,Pending
+Ord0229,Kiran,Chennai,Stationery,Rice Bag,2025-12-11,10,4333.89,Net Banking,Shipped
+Ord0230,Vikram,Vijayawada,Electronics,Notebook,2025-11-04,7,7176.96,Credit Card,Shipped
+Ord0231,Manoj,Warangal,Clothing,Laptop,2025-05-05,8,4627.88,Credit Card,Shipped
+Ord0232,Neha,Chennai,Furniture,Jeans,2025-07-19,1,12039.77,Debit Card,Shipped
+Ord0233,Arjun,Vijayawada,Groceries,Table,2025-10-07,1,12589.16,Net Banking,Pending
+Ord0234,Ananya,Chennai,Stationery,Jeans,2025-03-29,3,1040.49,Net Banking,Shipped
+Ord0235,Divya,Warangal,Clothing,Office Chair,2025-11-12,8,2393.25,Cash,Completed
+Ord0236,Kavya,Warangal,Stationery,Notebook,2025-09-13,7,16793.28,Cash,Pending
+Ord0237,Kavya,Kakinada,Furniture,Headphones,2025-01-07,8,618.83,Cash,Shipped
+Ord0238,Rohit,Hyderabad,Stationery,Cooking Oil,2025-05-14,5,4820.2,Debit Card,Pending
+Ord0239,Ananya,Tirupati,Furniture,Table,2025-05-17,4,1754.93,Debit Card,Shipped
+Ord0240,Sneha,Tirupati,Groceries,Table,2025-04-18,3,15775.6,Cash,Shipped
+Ord0241,Sandeep,Nellore,Groceries,Unknown,2025-11-02,3,2300.1,Cash,Cancelled
+Ord0242,Manoj,Chennai,Clothing,Table,2025-08-15,10,24458.74,Debit Card,Shipped
+Ord0243,Priya,Visakhapatnam,Furniture,Smartphone,2025-09-30,10,14471.69,Upi,Pending
+Ord0244,Priya,Vijayawada,Furniture,Jeans,2025-12-28,7,12850.83,Net Banking,Pending
+Ord0245,Swathi,Hyderabad,Groceries,Smartphone,2025-04-23,9,4875.71,Cash,Pending
+Ord0246,Swathi,Warangal,Clothing,Rice Bag,2025-02-16,6,16687.09,Upi,Cancelled
+Ord0247,Priya,Warangal,Furniture,Laptop,2025-09-09,5,4443.13,Debit Card,Cancelled
+Ord0248,Vikram,Warangal,Stationery,Office Chair,2025-08-29,2,12290.64,Debit Card,Pending
+Ord0249,Sneha,Visakhapatnam,Furniture,Jeans,2025-01-18,7,22377.34,Credit Card,Cancelled
+Ord0250,Ananya,Vijayawada,Electronics,Table,2025-07-11,10,23776.17,Credit Card,Shipped
+Ord0251,Ananya,Warangal,Groceries,T-Shirt,2025-11-21,9,12902.61,Cash,Completed
+Ord0252,Vikram,Bangalore,Stationery,T-Shirt,2025-03-01,5,13674.38,Cash,Completed
+Ord0253,Kiran,Chennai,Electronics,T-Shirt,2025-08-08,1,6594.43,Cash,Pending
+Ord0254,Swathi,Nellore,Stationery,Smartphone,2025-11-08,6,20754.94,Net Banking,Shipped
+Ord0255,Rahul,Guntur,Electronics,Laptop,2025-02-28,10,17761.38,Credit Card,Cancelled
+Ord0256,Sneha,Bangalore,Groceries,Smartphone,2025-07-07,2,24819.93,Debit Card,Cancelled
+Ord0257,Sandeep,Chennai,Stationery,Headphones,2025-02-05,1,16780.59,Credit Card,Cancelled
+Ord0258,Rohit,Guntur,Stationery,Headphones,2025-11-30,2,13842.15,Net Banking,Completed
+Ord0259,Sneha,Warangal,Stationery,T-Shirt,2025-05-08,2,19791.43,Upi,Pending
+Ord0260,Vikram,Chennai,Furniture,Jeans,2025-11-27,10,18984.89,Net Banking,Cancelled
+Ord0261,Manoj,Vijayawada,Groceries,Cooking Oil,2025-06-17,5,3700.65,Debit Card,Cancelled
+Ord0262,Sneha,Kakinada,Electronics,T-Shirt,2025-10-26,5,24612.29,Net Banking,Completed
+Ord0263,Sandeep,Tirupati,Clothing,T-Shirt,2025-09-25,6,22876.47,Upi,Cancelled
+Ord0264,Priya,Kakinada,Clothing,T-Shirt,2025-08-11,2,24856.14,Debit Card,Pending
+Ord0265,Sneha,Guntur,Clothing,Jeans,2025-02-11,4,9406.4,Credit Card,Completed
+Ord0266,Divya,Warangal,Clothing,Headphones,2025-08-01,7,16199.73,Net Banking,Completed
+Ord0267,Pooja,Bangalore,Furniture,Office Chair,2025-02-08,8,15378.76,Cash,Cancelled
+Ord0268,Kiran,Guntur,Groceries,Table,2025-08-24,8,11199.19,Upi,Shipped
+Ord0269,Pooja,Warangal,Electronics,Cooking Oil,2025-01-06,5,18580.1,Credit Card,Completed
+Ord0270,Neha,Tirupati,Electronics,Office Chair,2025-11-30,5,1337.92,Debit Card,Cancelled
+Ord0271,Divya,Chennai,Electronics,Table,2025-04-07,10,17209.22,Credit Card,Cancelled
+Ord0272,Sandeep,Tirupati,Electronics,Cooking Oil,2025-01-31,8,23145.27,Credit Card,Shipped
+Ord0273,Vikram,Kakinada,Electronics,Rice Bag,2025-03-16,5,17493.45,Debit Card,Cancelled
+Ord0274,Rahul,Hyderabad,Furniture,Laptop,2025-04-05,9,20921.22,Net Banking,Cancelled
+Ord0275,Priya,Visakhapatnam,Stationery,Laptop,2025-03-22,6,22290.04,Debit Card,Shipped
+Ord0276,Neha,Vijayawada,Groceries,Jeans,2025-09-22,9,12442.39,Credit Card,Shipped
+Ord0277,Kavya,Vijayawada,Groceries,Notebook,2025-08-23,9,21747.45,Credit Card,Cancelled
+Ord0278,Vikram,Visakhapatnam,Groceries,Jeans,2025-01-06,6,9114.09,Credit Card,Pending
+Ord0279,Swathi,Tirupati,Groceries,Laptop,2025-10-04,9,18143.56,Net Banking,Cancelled
+Ord0280,Kiran,Vijayawada,Groceries,Headphones,2025-05-14,5,22005.31,Debit Card,Completed
+Ord0281,Vikram,Nellore,Clothing,Cooking Oil,2025-04-13,7,15907.84,Cash,Pending
+Ord0282,Priya,Guntur,Electronics,Notebook,2025-02-14,8,4437.17,Upi,Completed
+Ord0283,Kiran,Visakhapatnam,Groceries,T-Shirt,2025-01-17,6,13369.27,Debit Card,Shipped
+Ord0284,Vikram,Kakinada,Clothing,Table,2025-06-30,8,14752.67,Cash,Completed
+Ord0285,Manoj,Tirupati,Stationery,Notebook,2025-04-02,10,5502.82,Net Banking,Pending
+Ord0286,Priya,Nellore,Electronics,Rice Bag,2025-05-24,6,19238.01,Credit Card,Pending
+Ord0287,Arjun,Vijayawada,Electronics,T-Shirt,2025-10-22,4,12573.37,Net Banking,Shipped
+Ord0288,Kiran,Tirupati,Groceries,Rice Bag,2025-12-23,5,12177.88,Credit Card,Shipped
+Ord0289,Kiran,Hyderabad,Furniture,Smartphone,2025-03-26,5,9384.3,Net Banking,Shipped
+Ord0290,Vikram,Vijayawada,Furniture,Headphones,2025-08-18,5,6445.5,Cash,Cancelled
+Ord0291,Kiran,Guntur,Stationery,Jeans,2025-05-23,3,13094.14,Credit Card,Pending
+Ord0292,Manoj,Vijayawada,Clothing,Office Chair,2025-04-11,6,14495.83,Net Banking,Pending
+Ord0293,Swathi,Kakinada,Electronics,Table,2025-12-23,10,24137.25,Debit Card,Cancelled
+Ord0294,Manoj,Bangalore,Electronics,T-Shirt,2025-10-02,7,9988.31,Debit Card,Completed
+Ord0295,Priya,Visakhapatnam,Furniture,Laptop,2025-12-30,5,15950.65,Debit Card,Cancelled
+Ord0296,Swathi,Vijayawada,Electronics,Jeans,2025-04-03,7,22638.84,Net Banking,Cancelled
+Ord0297,Neha,Chennai,Clothing,Notebook,2025-01-31,3,11915.58,Cash,Completed
+Ord0298,Sandeep,Visakhapatnam,Furniture,Cooking Oil,2025-07-23,6,18579.65,Credit Card,Shipped
+Ord0299,Ananya,Visakhapatnam,Clothing,Smartphone,2025-11-19,9,5717.9,Cash,Completed
+Ord0300,Vikram,Vijayawada,Clothing,Jeans,2025-06-17,6,24086.73,Debit Card,Pending
+Ord0301,Sandeep,Hyderabad,Furniture,Table,2025-09-25,9,13159.9,Upi,Completed
+Ord0302,Swathi,Hyderabad,Furniture,Jeans,2025-06-25,5,15407.72,Cash,Pending
+Ord0303,Kiran,Chennai,Stationery,Table,2025-04-17,1,19864.27,Credit Card,Completed
+Ord0304,Sandeep,Tirupati,Electronics,Notebook,2025-03-07,3,20287.08,Credit Card,Cancelled
+Ord0305,Kiran,Visakhapatnam,Clothing,Cooking Oil,2025-05-03,5,7227.95,Credit Card,Cancelled
+Ord0306,Pooja,Visakhapatnam,Electronics,Notebook,2025-10-17,6,22523.96,Credit Card,Pending
+Ord0307,Sandeep,Warangal,Furniture,Notebook,2025-10-04,2,11705.95,Upi,Shipped
+Ord0308,Rahul,Chennai,Stationery,Rice Bag,2025-04-19,1,16435.55,Debit Card,Cancelled
+Ord0309,Priya,Tirupati,Stationery,Laptop,2025-06-11,8,13140.2,Debit Card,Completed
+Ord0310,Arjun,Vijayawada,Stationery,Office Chair,2025-12-05,8,10268.47,Upi,Cancelled
+Ord0311,Kiran,Warangal,Stationery,Headphones,2025-06-25,8,8285.11,Upi,Shipped
+Ord0312,Ananya,Nellore,Furniture,Laptop,2025-09-14,1,14313.93,Net Banking,Shipped
+Ord0313,Priya,Nellore,Groceries,Office Chair,2025-03-09,7,6989.99,Credit Card,Cancelled
+Ord0314,Priya,Nellore,Clothing,Office Chair,2025-08-04,9,19392.39,Credit Card,Pending
+Ord0315,Rahul,Guntur,Clothing,Smartphone,2025-09-08,3,10251.37,Credit Card,Pending
+Ord0316,Priya,Visakhapatnam,Electronics,T-Shirt,2025-03-18,2,10023.56,Credit Card,Shipped
+Ord0317,Divya,Nellore,Clothing,Headphones,2025-07-28,1,9216.03,Cash,Cancelled
+Ord0318,Neha,Warangal,Furniture,Cooking Oil,2025-04-23,3,14776.62,Cash,Shipped
+Ord0319,Vikram,Guntur,Stationery,Smartphone,2025-04-25,2,11317.31,Debit Card,Completed
+Ord0320,Swathi,Tirupati,Electronics,Smartphone,2025-07-22,10,9582.45,Debit Card,Shipped
+Ord0321,Sneha,Bangalore,Groceries,Notebook,2025-08-20,9,6167.61,Debit Card,Completed
+Ord0322,Vikram,Nellore,Groceries,Laptop,2025-04-07,5,22078.18,Upi,Shipped
+Ord0323,Arjun,Warangal,Groceries,Jeans,2025-01-23,3,11008.96,Net Banking,Pending
+Ord0324,Swathi,Nellore,Clothing,Table,2025-08-24,5,2708.63,Credit Card,Shipped
+Ord0325,Vikram,Chennai,Furniture,Office Chair,2025-08-23,5,19122.02,Upi,Shipped
+Ord0326,Pooja,Tirupati,Furniture,Laptop,2025-06-06,5,12902.61,Net Banking,Completed
+Ord0327,Rahul,Kakinada,Furniture,Office Chair,2025-02-20,8,13482.83,Cash,Cancelled
+Ord0328,Sneha,Guntur,Clothing,Notebook,2025-02-27,6,5578.95,Cash,Shipped
+Ord0329,Pooja,Kakinada,Groceries,Laptop,2025-08-28,9,17745.08,Credit Card,Cancelled
+Ord0330,Sandeep,Chennai,Electronics,Rice Bag,2025-04-29,7,18955.96,Credit Card,Completed
+Ord0331,Kavya,Hyderabad,Groceries,Headphones,2025-07-11,6,15797.32,Debit Card,Cancelled
+Ord0332,Rahul,Nellore,Clothing,Rice Bag,2025-03-07,7,20935.97,Cash,Completed
+Ord0333,Priya,Guntur,Furniture,Jeans,2025-07-19,3,11180.44,Debit Card,Pending
+Ord0334,Divya,Nellore,Groceries,Jeans,2025-08-07,10,12136.19,Debit Card,Shipped
+Ord0335,Kavya,Chennai,Electronics,Jeans,2025-05-20,9,14276.18,Cash,Cancelled
+Ord0336,Swathi,Guntur,Stationery,Notebook,2025-04-18,8,14237.72,Debit Card,Cancelled
+Ord0337,Rohit,Tirupati,Furniture,Headphones,2025-06-05,6,18412.88,Net Banking,Completed
+Ord0338,Ananya,Bangalore,Groceries,Smartphone,2025-10-10,5,16190.68,Net Banking,Completed
+Ord0339,Vikram,Kakinada,Furniture,Jeans,2025-11-06,6,23568.74,Cash,Cancelled
+Ord0340,Kiran,Warangal,Groceries,Table,2025-06-02,1,23918.7,Credit Card,Pending
+Ord0341,Rahul,Warangal,Groceries,Laptop,2025-09-02,7,23464.64,Net Banking,Shipped
+Ord0342,Arjun,Chennai,Clothing,Smartphone,2025-12-21,10,21930.29,Credit Card,Shipped
+Ord0343,Ananya,Kakinada,Groceries,Jeans,2025-02-14,4,12123.52,Cash,Cancelled
+Ord0344,Kavya,Warangal,Stationery,Rice Bag,2025-12-21,10,2832.09,Upi,Pending
+Ord0345,Divya,Hyderabad,Clothing,Notebook,2025-04-04,2,16612.01,Cash,Shipped
+Ord0346,Neha,Kakinada,Groceries,Table,2025-06-23,5,14410.35,Upi,Cancelled
+Ord0347,Sandeep,Visakhapatnam,Furniture,Headphones,2025-03-26,6,23446.4,Credit Card,Pending
+Ord0348,Kavya,Visakhapatnam,Electronics,Notebook,2025-08-13,7,20401.04,Credit Card,Pending
+Ord0349,Sneha,Chennai,Stationery,Smartphone,2025-08-15,3,19895.93,Debit Card,Pending
+Ord0350,Rohit,Warangal,Clothing,Jeans,2025-09-21,2,18835.14,Debit Card,Pending
+Ord0351,Rahul,Guntur,Clothing,Cooking Oil,2025-02-27,1,6048.7,Credit Card,Pending
+Ord0352,Sneha,Nellore,Stationery,Rice Bag,2025-07-07,4,1124.01,Credit Card,Completed
+Ord0353,Priya,Warangal,Groceries,Rice Bag,2025-07-10,8,7819.48,Net Banking,Shipped
+Ord0354,Neha,Vijayawada,Electronics,Smartphone,2025-01-07,9,2678.36,Upi,Pending
+Ord0355,Priya,Guntur,Stationery,Office Chair,2025-01-31,7,9492.5,Credit Card,Shipped
+Ord0356,Manoj,Nellore,Electronics,Headphones,2025-05-01,8,19562.74,Upi,Shipped
+Ord0357,Manoj,Hyderabad,Electronics,Table,2025-06-29,4,5197.51,Cash,Shipped
+Ord0358,Rahul,Kakinada,Stationery,Smartphone,2025-05-15,5,21825.92,Upi,Shipped
+Ord0359,Divya,Guntur,Electronics,Smartphone,2025-03-24,2,4739.55,Cash,Shipped
+Ord0360,Divya,Tirupati,Electronics,Headphones,2025-01-06,6,24789.12,Net Banking,Pending
+Ord0361,Sandeep,Hyderabad,Stationery,Headphones,2025-06-19,1,12433.83,Cash,Completed
+Ord0362,Sneha,Tirupati,Clothing,Rice Bag,2025-08-02,2,3375.73,Debit Card,Cancelled
+Ord0363,Sandeep,Hyderabad,Clothing,Notebook,2025-02-15,4,16701.13,Net Banking,Completed
+Ord0364,Rahul,Bangalore,Groceries,Headphones,2025-01-23,4,4374.58,Credit Card,Pending
+Ord0365,Pooja,Hyderabad,Groceries,Smartphone,2025-07-12,4,5252.18,Net Banking,Pending
+Ord0366,Neha,Visakhapatnam,Electronics,Laptop,2025-01-25,3,14311.33,Net Banking,Pending
+Ord0367,Sneha,Bangalore,Furniture,Smartphone,2025-05-23,4,3194.42,Upi,Cancelled
+Ord0368,Vikram,Nellore,Furniture,Smartphone,2025-01-08,9,23787.07,Upi,Cancelled
+Ord0369,Vikram,Warangal,Stationery,Notebook,2025-07-23,2,24302.25,Credit Card,Pending
+Ord0370,Ananya,Warangal,Clothing,T-Shirt,2025-03-15,2,21941.75,Cash,Completed
+Ord0371,Kavya,Vijayawada,Groceries,Cooking Oil,2025-09-07,3,13881.25,Credit Card,Cancelled
+Ord0372,Ananya,Vijayawada,Clothing,Jeans,2025-08-25,3,2824.16,Debit Card,Completed
+Ord0373,Rahul,Hyderabad,Electronics,Smartphone,2025-07-21,9,6785.2,Credit Card,Cancelled
+Ord0374,Neha,Bangalore,Electronics,Notebook,2025-06-19,8,1533.9,Upi,Cancelled
+Ord0375,Manoj,Guntur,Stationery,Cooking Oil,2025-04-23,10,21786.44,Credit Card,Pending
+Ord0376,Pooja,Warangal,Clothing,Notebook,2025-02-02,2,14870.76,Debit Card,Completed
+Ord0377,Rahul,Bangalore,Groceries,Cooking Oil,2025-05-15,10,20011.6,Upi,Completed
+Ord0378,Manoj,Bangalore,Electronics,Table,2025-10-30,2,24415.79,Cash,Cancelled
+Ord0379,Pooja,Chennai,Clothing,Laptop,2025-02-03,10,2777.89,Net Banking,Shipped
+Ord0380,Arjun,Hyderabad,Electronics,Laptop,2025-05-07,5,10113.54,Credit Card,Pending
+Ord0381,Ananya,Chennai,Clothing,Laptop,2025-08-24,7,7287.73,Credit Card,Pending
+Ord0382,Sneha,Warangal,Groceries,Rice Bag,2025-01-12,6,5919.69,Debit Card,Cancelled
+Ord0383,Divya,Hyderabad,Electronics,Laptop,2025-02-27,2,686.26,Debit Card,Cancelled
+Ord0384,Kiran,Guntur,Groceries,Laptop,2025-12-20,1,17987.58,Cash,Cancelled
+Ord0385,Sandeep,Chennai,Groceries,Notebook,2025-02-20,1,2588.27,Upi,Shipped
+Ord0386,Rahul,Nellore,Furniture,Headphones,2025-06-04,6,20753.08,Net Banking,Cancelled
+Ord0387,Rohit,Guntur,Clothing,T-Shirt,2025-03-14,10,17908.86,Cash,Pending
+Ord0388,Rahul,Chennai,Stationery,Laptop,2025-01-03,3,10796.71,Credit Card,Completed
+Ord0389,Pooja,Kakinada,Electronics,Cooking Oil,2025-08-05,10,8382.43,Upi,Shipped
+Ord0390,Ananya,Tirupati,Groceries,Smartphone,2025-04-20,3,20775.61,Net Banking,Shipped
+Ord0391,Pooja,Visakhapatnam,Groceries,Rice Bag,2025-10-21,10,9115.94,Cash,Shipped
+Ord0392,Rohit,Bangalore,Groceries,Table,2025-05-05,3,2951.6,Cash,Shipped
+Ord0393,Manoj,Nellore,Furniture,T-Shirt,2025-09-06,6,19940.88,Cash,Completed
+Ord0394,Ananya,Kakinada,Furniture,Laptop,2025-04-20,5,9348.76,Net Banking,Pending
+Ord0395,Arjun,Hyderabad,Stationery,Rice Bag,2025-06-25,1,12373.81,Debit Card,Pending
+Ord0396,Rohit,Bangalore,Clothing,Laptop,2025-07-04,2,7586.37,Upi,Completed
+Ord0397,Arjun,Warangal,Groceries,Table,2025-12-25,2,1072.7,Credit Card,Completed
+Ord0398,Vikram,Visakhapatnam,Electronics,Headphones,2025-03-20,9,16268.13,Net Banking,Cancelled
+Ord0399,Manoj,Tirupati,Stationery,Laptop,2025-05-02,7,21564.42,Credit Card,Cancelled
+Ord0400,Sneha,Tirupati,Furniture,Jeans,2025-09-14,6,18298.97,Debit Card,Pending
+Ord0401,Rahul,Chennai,Electronics,T-Shirt,2025-02-24,7,19831.24,Cash,Shipped
+Ord0402,Vikram,Tirupati,Clothing,Laptop,2025-06-22,3,10315.88,Cash,Shipped
+Ord0403,Ananya,Chennai,Furniture,Jeans,2025-10-22,10,16414.03,Credit Card,Pending
+Ord0404,Neha,Tirupati,Clothing,Cooking Oil,2025-03-11,4,11971.97,Debit Card,Cancelled
+Ord0405,Manoj,Kakinada,Furniture,Table,2025-03-10,8,8541.75,Credit Card,Shipped
+Ord0406,Ananya,Chennai,Clothing,Notebook,2025-08-01,1,23141.87,Upi,Pending
+Ord0407,Vikram,Hyderabad,Stationery,Jeans,2025-12-14,2,6043.93,Debit Card,Cancelled
+Ord0408,Pooja,Nellore,Electronics,Laptop,2025-05-15,3,6588.78,Cash,Cancelled
+Ord0409,Vikram,Kakinada,Clothing,T-Shirt,2025-11-27,3,20149.67,Upi,Cancelled
+Ord0410,Swathi,Chennai,Stationery,T-Shirt,2025-10-26,9,24453.09,Upi,Pending
+Ord0411,Priya,Tirupati,Stationery,Office Chair,2025-02-23,1,15446.76,Cash,Completed
+Ord0412,Vikram,Warangal,Electronics,Headphones,2025-08-21,8,21451.72,Upi,Completed
+Ord0413,Swathi,Tirupati,Furniture,Smartphone,2025-05-19,5,18159.62,Cash,Pending
+Ord0414,Sneha,Chennai,Stationery,Notebook,2025-10-22,10,8074.51,Net Banking,Shipped
+Ord0415,Arjun,Bangalore,Groceries,Headphones,2025-01-17,6,8247.51,Credit Card,Cancelled
+Ord0416,Manoj,Kakinada,Groceries,Table,2025-11-23,3,3488.57,Net Banking,Shipped
+Ord0417,Rahul,Tirupati,Furniture,T-Shirt,2025-09-26,10,9623.45,Debit Card,Cancelled
+Ord0418,Sandeep,Warangal,Clothing,Laptop,2025-08-22,2,5279.6,Upi,Cancelled
+Ord0419,Rohit,Chennai,Groceries,Cooking Oil,2025-07-27,4,10137.76,Debit Card,Completed
+Ord0420,Ananya,Tirupati,Clothing,Smartphone,2025-08-26,4,16154.98,Credit Card,Shipped
+Ord0421,Sneha,Kakinada,Clothing,Headphones,2025-07-19,9,3217.89,Net Banking,Completed
+Ord0422,Priya,Guntur,Groceries,Table,2025-02-08,10,12059.49,Cash,Completed
+Ord0423,Ananya,Visakhapatnam,Furniture,Table,2025-10-19,1,1267.42,Credit Card,Completed
+Ord0424,Sneha,Hyderabad,Stationery,Office Chair,2025-01-15,10,4650.67,Credit Card,Completed
+Ord0425,Ananya,Kakinada,Electronics,Table,2025-01-25,6,12322.55,Credit Card,Cancelled
+Ord0426,Sneha,Kakinada,Groceries,Laptop,2025-09-06,2,24392.49,Debit Card,Cancelled
+Ord0427,Divya,Nellore,Stationery,Office Chair,2025-02-25,9,21997.47,Credit Card,Pending
+Ord0428,Sandeep,Vijayawada,Clothing,T-Shirt,2025-04-27,1,3986.25,Credit Card,Cancelled
+Ord0429,Rahul,Hyderabad,Electronics,Smartphone,2025-08-29,5,498.3,Credit Card,Cancelled
+Ord0430,Arjun,Kakinada,Stationery,Headphones,2025-01-05,5,4329.55,Cash,Cancelled
+Ord0431,Divya,Kakinada,Groceries,Notebook,2025-11-19,1,2066.94,Cash,Pending
+Ord0432,Arjun,Vijayawada,Clothing,Rice Bag,2025-10-01,10,11689.56,Net Banking,Cancelled
+Ord0433,Neha,Tirupati,Clothing,Laptop,2025-04-01,7,11964.27,Net Banking,Shipped
+Ord0434,Neha,Bangalore,Electronics,Jeans,2025-09-23,6,15233.41,Net Banking,Completed
+Ord0435,Kiran,Guntur,Groceries,Table,2025-09-21,10,15486.54,Net Banking,Shipped
+Ord0436,Rohit,Visakhapatnam,Electronics,Laptop,2025-01-12,6,7157.83,Credit Card,Shipped
+Ord0437,Swathi,Visakhapatnam,Stationery,Table,2025-12-11,7,2237.97,Credit Card,Shipped
+Ord0438,Kiran,Bangalore,Stationery,Smartphone,2025-04-12,3,11651.45,Credit Card,Pending
+Ord0439,Neha,Vijayawada,Furniture,Notebook,2025-07-27,4,6901.63,Debit Card,Shipped
+Ord0440,Ananya,Bangalore,Electronics,Smartphone,2025-05-13,9,10391.9,Cash,Pending
+Ord0441,Sneha,Vijayawada,Clothing,Rice Bag,2025-05-19,4,20281.06,Net Banking,Completed
+Ord0442,Kiran,Hyderabad,Groceries,Laptop,2025-07-29,10,12618.24,Credit Card,Completed
+Ord0443,Rohit,Guntur,Furniture,Headphones,2025-09-13,2,14697.8,Debit Card,Pending
+Ord0444,Swathi,Bangalore,Furniture,Headphones,2025-11-11,9,17276.05,Debit Card,Shipped
+Ord0445,Vikram,Guntur,Furniture,Jeans,2025-05-16,3,18149.32,Cash,Cancelled
+Ord0446,Vikram,Visakhapatnam,Clothing,Table,2025-01-11,9,2370.57,Net Banking,Cancelled
+Ord0447,Swathi,Guntur,Groceries,Office Chair,2025-11-14,3,14305.53,Upi,Pending
+Ord0448,Rohit,Vijayawada,Electronics,Office Chair,2025-02-06,8,21107.15,Net Banking,Completed
+Ord0449,Manoj,Visakhapatnam,Groceries,Table,2025-11-26,8,21573.65,Net Banking,Shipped
+Ord0450,Pooja,Tirupati,Stationery,Office Chair,2025-03-02,5,14870.82,Net Banking,Cancelled
+Ord0451,Ananya,Warangal,Furniture,Table,2025-12-12,3,21976.77,Cash,Cancelled
+Ord0452,Ananya,Visakhapatnam,Clothing,Smartphone,2025-09-29,8,16892.62,Upi,Cancelled
+Ord0453,Rohit,Hyderabad,Stationery,Table,2025-08-04,4,2193.53,Cash,Pending
+Ord0454,Vikram,Nellore,Stationery,Headphones,2025-08-06,3,12167.83,Cash,Completed
+Ord0455,Vikram,Nellore,Clothing,Table,2025-08-06,6,2718.95,Upi,Pending
+Ord0456,Arjun,Nellore,Stationery,Laptop,2025-09-27,2,11666.46,Debit Card,Pending
+Ord0457,Rahul,Kakinada,Clothing,Smartphone,2025-06-24,6,6627.28,Debit Card,Completed
+Ord0458,Sandeep,Kakinada,Electronics,Headphones,2025-03-31,3,5069.44,Credit Card,Cancelled
+Ord0459,Swathi,Tirupati,Clothing,Laptop,2025-06-11,5,5664.62,Credit Card,Cancelled
+Ord0460,Priya,Visakhapatnam,Furniture,Smartphone,2025-03-30,1,3036.69,Credit Card,Completed
+Ord0461,Priya,Warangal,Clothing,Office Chair,2025-03-24,2,19247.37,Credit Card,Cancelled
+Ord0462,Kavya,Tirupati,Clothing,Office Chair,2025-12-01,4,24023.61,Net Banking,Pending
+Ord0463,Kiran,Hyderabad,Stationery,Office Chair,2025-09-08,8,7645.97,Net Banking,Cancelled
+Ord0464,Ananya,Vijayawada,Furniture,Headphones,2025-09-15,3,3670.38,Net Banking,Cancelled
+Ord0465,Rohit,Kakinada,Electronics,Rice Bag,2025-12-03,4,654.67,Debit Card,Cancelled
+Ord0466,Priya,Chennai,Stationery,Laptop,2025-04-08,6,14395.51,Net Banking,Cancelled
+Ord0467,Arjun,Bangalore,Groceries,Notebook,2025-01-23,9,7782.55,Credit Card,Pending
+Ord0468,Kiran,Kakinada,Furniture,Notebook,2025-10-26,1,12795.82,Credit Card,Completed
+Ord0469,Divya,Bangalore,Clothing,Smartphone,2025-04-20,3,513.65,Debit Card,Cancelled
+Ord0470,Pooja,Chennai,Groceries,Table,2025-07-21,1,7537.37,Net Banking,Shipped
+Ord0471,Swathi,Vijayawada,Groceries,Cooking Oil,2025-05-16,1,19874.4,Credit Card,Completed
+Ord0472,Rohit,Bangalore,Groceries,Laptop,2025-07-31,6,7085.38,Debit Card,Completed
+Ord0473,Sandeep,Nellore,Furniture,T-Shirt,2025-05-04,2,19754.67,Cash,Shipped
+Ord0474,Swathi,Visakhapatnam,Stationery,Smartphone,2025-03-03,6,1505.39,Debit Card,Completed
+Ord0475,Priya,Vijayawada,Furniture,Office Chair,2025-02-21,2,2878.13,Credit Card,Cancelled
+Ord0476,Sneha,Warangal,Clothing,T-Shirt,2025-10-23,10,16923.89,Cash,Completed
+Ord0477,Divya,Bangalore,Groceries,Office Chair,2025-04-24,1,20129.55,Debit Card,Cancelled
+Ord0478,Kiran,Hyderabad,Stationery,Cooking Oil,2025-05-31,5,6496.04,Credit Card,Pending
+Ord0479,Vikram,Guntur,Clothing,Laptop,2025-01-05,7,4007.75,Cash,Completed
+Ord0480,Kiran,Warangal,Electronics,Table,2025-02-21,3,20788.14,Upi,Cancelled
+Ord0481,Manoj,Guntur,Electronics,Rice Bag,2025-09-23,4,16464.19,Debit Card,Pending
+Ord0482,Kiran,Tirupati,Stationery,Rice Bag,2025-11-22,7,18748.21,Net Banking,Completed
+Ord0483,Vikram,Tirupati,Electronics,Office Chair,2025-06-08,3,773.02,Debit Card,Cancelled
+Ord0484,Rahul,Tirupati,Clothing,T-Shirt,2025-09-12,3,12787.67,Credit Card,Shipped
+Ord0485,Divya,Tirupati,Groceries,Rice Bag,2025-07-14,4,7105.05,Credit Card,Completed
+Ord0486,Ananya,Hyderabad,Furniture,Notebook,2025-04-23,6,19251.74,Cash,Shipped
+Ord0487,Kiran,Visakhapatnam,Clothing,Table,2025-08-05,5,7153.37,Upi,Pending
+Ord0488,Priya,Warangal,Clothing,Office Chair,2025-01-15,4,1483.06,Net Banking,Cancelled
+Ord0489,Manoj,Vijayawada,Groceries,Office Chair,2025-07-01,8,20711.02,Upi,Completed
+Ord0490,Swathi,Nellore,Electronics,Laptop,2025-02-02,4,9823.02,Upi,Shipped
+Ord0491,Ananya,Chennai,Electronics,Table,2025-07-14,2,18704.44,Net Banking,Shipped
+Ord0492,Divya,Warangal,Clothing,Smartphone,2025-06-10,6,19580.29,Upi,Shipped
+Ord0493,Kavya,Chennai,Clothing,Table,2025-10-29,3,11021.17,Cash,Shipped
+Ord0494,Priya,Vijayawada,Clothing,Table,2025-08-30,8,18277.77,Upi,Shipped
+Ord0495,Pooja,Bangalore,Groceries,Headphones,2025-03-15,2,1052.47,Upi,Cancelled
+Ord0496,Swathi,Kakinada,Stationery,Cooking Oil,2025-10-23,6,2358.97,Net Banking,Pending
+Ord0497,Neha,Chennai,Furniture,T-Shirt,2025-10-20,5,21592.13,Net Banking,Pending
+Ord0498,Pooja,Visakhapatnam,Clothing,Notebook,2025-02-28,5,10424.63,Credit Card,Pending
+Ord0499,Arjun,Kakinada,Furniture,Headphones,2025-05-09,4,20697.83,Upi,Completed
+Ord0500,Neha,Bangalore,Groceries,Jeans,2025-12-01,9,6460.37,Credit Card,Completed
